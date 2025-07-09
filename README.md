@@ -13,6 +13,18 @@ This repository contains a **Costco Sales Dashboard** that provides interactive 
 
 This interactive dashboard offers a comprehensive overview of Costco’s performance from 2020 to 2024. It allows users to filter by year, analyze revenue and profit trends, and monitor product and regional performance.
 
+---
+
+## 🛠️ Actions Taken
+
+- Cleaned and transformed data using Power Query.
+- Developed KPIs and measures with DAX in Power BI.
+- Created KPIs for revenue, profit margin, and YoY sales growth(Advanced Dax Calculations).
+- Incorporated filters, slicers, and interactive visuals.
+- Secured sensitive data based on user roles(Row-Level Security).
+
+---
+
 ### 🚩 Key Performance Indicators (KPIs)
 
 - **Total Revenue**: $2.9M  
