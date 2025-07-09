@@ -38,3 +38,13 @@ This interactive dashboard offers a comprehensive overview of Costco’s perform
 - 🧾 **Top-Selling Products Table**
 
 ---
+
+## 🧠 Tools & Tech Used
+
+- **Power BI**
+- **Power Query**
+- **DAX**
+- **Data Modeling**
+- **Data Visualization**
+
+---
