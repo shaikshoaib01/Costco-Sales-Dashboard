@@ -48,3 +48,6 @@ This interactive dashboard offers a comprehensive overview of Costco’s perform
 - **Data Visualization**
 
 ---
+
+## Copyright
+- Project dataset created by ZeroAnalyst; it is a simulated company for learning purposes.
