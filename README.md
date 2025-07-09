@@ -8,3 +8,33 @@ This repository contains a **Costco Sales Dashboard** that provides interactive 
 
 ### Sales Overview Dashboard
 <img src="Costco%20Sales%20Dashboard.png" alt="Executive Dashboard Preview" width="700"/>
+
+## 📊 Overview
+
+This interactive dashboard offers a comprehensive overview of Costco’s performance from 2020 to 2024. It allows users to filter by year, analyze revenue and profit trends, and monitor product and regional performance.
+
+### 🚩 Key Performance Indicators (KPIs)
+
+- **Total Revenue**: $2.9M  
+  > 📉 73.3% decrease from last year
+- **Total Profit**: $1.58M  
+  > 📉 72.0% decrease from last year
+- **Total Quantity Sold**: 48.95K units
+- **Orders vs Target**: 15.8K / 17K target
+- **Revenue by Segment**:
+  - Consumer: 53.09%
+  - Corporate: 27.6%
+  - Home Office: 19.31%
+
+---
+
+## 📍 Dashboard Features
+
+- ✅ **Interactive Year Filter (2020–2024)**
+- 📈 **Time-Series Chart**: Revenue vs Monthly Targets
+- 🧭 **Regional Breakdown**: Total Revenue and Profit by U.S. regions
+- 🧮 **Orders vs Target Gauge**
+- 🌍 **U.S. Sales Map**: Sales volume by state
+- 🧾 **Top-Selling Products Table**
+
+---
