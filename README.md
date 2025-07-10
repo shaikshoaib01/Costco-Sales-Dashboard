@@ -6,8 +6,12 @@ This repository contains a **Costco Sales Dashboard** that provides interactive 
 
 🔗 Explore the live Dashboard here: **[View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjRjNTE0OTktOGRjMi00MjljLThiMDItZWZkNGIyYzdlMTJlIiwidCI6ImY2NWIxZTk2LWMyNjgtNDc1ZS1hOTg2LTFhODkyODg3MjZiMSJ9)** 
 
+---
+
 ### Sales Overview Dashboard
 <img src="Costco%20Sales%20Dashboard.png" alt="Executive Dashboard Preview" width="700"/>
+
+---
 
 ## 📊 Overview
 
